@@ -1,0 +1,8 @@
+Hi guyz this is my thesis last 2006-2007 before i graduated in my course...
+This code if for encryption...unlike other encryption codes, it does not change 
+the file extention of the encrypted file...some of the codes comes from here planet-source-code.com
+i just recode it to be usefull enough for my thesis.. and it really help me a lot
+Thanks for those who submitted encryption codes at planet source code..
+
+hope this one will help you in creating encryption codes...thanks and more power planet-source-cde.com
+Please don't forget to vote.
